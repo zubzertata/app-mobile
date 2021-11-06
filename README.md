@@ -1,3 +1,7 @@
-# app-mobile
-Prueba Programacion de Aplicaciones moviles
-App relacionado con informacion de personajes de anime
+
+Nombre: Claudio Riveros
+Plugins necesarios:
+        npm install @ionic/storage
+        npm install @ionic/storage-angular
+        npm install -g cordova
+
