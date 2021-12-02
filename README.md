@@ -5,3 +5,6 @@ Plugins necesarios:
         npm install @ionic/storage-angular
         npm install -g cordova
 
+Claudio Riveros
+Waifus
+
